@@ -1,6 +1,8 @@
 ### Hi there 😇
 
-🔭 I’m actively looking for a Machine Learning Engineer Job 
+- 🔭 I’m actively looking for a Machine Learning Engineer Job
+- 🌱 I’m currently learning about Web Development
+- 📄 Started to write technical blogs
 
 <!--
 **jahez07/jahez07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
