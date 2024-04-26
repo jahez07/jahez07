@@ -4,6 +4,16 @@
 - 🌱 I’m currently learning about Web Development
 - 📄 Started to write technical blogs : https://medium.com/@jahezjohn18950
 
+## Socials
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://www.linkedin.com/in/jahez-abraham-johny/" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://medium.com/@jahezjohn18950" alt="Medium"/>
+  </a>
+</div>
+
 <!--
 **jahez07/jahez07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
