@@ -1,5 +1,6 @@
 # About Me 🤓
 - 🔭 I’m actively looking for a Machine Learning Engineer Job
+- 📈 Doing research on Deep Learning Solutions for malware classification
 - 🌱 I’m currently learning about Web Development
 - 📄 Started to write technical blogs : https://medium.com/@jahezjohn18950
 
