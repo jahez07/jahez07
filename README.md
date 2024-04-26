@@ -26,6 +26,7 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 
+# GitHub Stats 📌
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jahez07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=jahez07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahez07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
