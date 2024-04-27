@@ -1,5 +1,4 @@
-# About Me 🤓
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Jahez 🤓
 - 🔭 I’m actively looking for a Machine Learning Engineer Job
 - 🔬 Doing research on Deep Learning Solutions for malware classification
 - 🌱 I’m currently learning about Web Development
