@@ -31,6 +31,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jahez07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=jahez07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahez07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+# Certifications 
+Google Data Analytics Professional Certification : ![Credential](https://coursera.org/share/00daf2f2b7dfbfa84683c9e3748f9eac)<br/>
+Supervised Machine Learning: Regression and Classification : ![Credential](https://coursera.org/share/d6c59f497a00255c95ccbd65ea48fe43)<br/>
 <!--
 **jahez07/jahez07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
