@@ -34,7 +34,7 @@
 
 
 # Certifications 
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?logo=Coursera&logoColor=white) Google Data Analytics Professional Certification : [Credential](https://coursera.org/share/00daf2f2b7dfbfa84683c9e3748f9eac)<br/>
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?logo=Coursera&logoColor=white) ![Google](https://img.shields.io/badge/google-4285F4?logo=google&logoColor=white) Google Data Analytics Professional Certification : [Credential](https://coursera.org/share/00daf2f2b7dfbfa84683c9e3748f9eac)<br/>
 Supervised Machine Learning: Regression and Classification : [Credential](https://coursera.org/share/d6c59f497a00255c95ccbd65ea48fe43)<br/>
 <!--
 **jahez07/jahez07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
