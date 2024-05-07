@@ -13,9 +13,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
-```markdown
-![](https://komarev.com/ghpvc/?username=jahez07)
-```
+![](https://hit.yhype.me/github/profile?user_id=1849174)
 
 # Technology Stacks 🧮
 
