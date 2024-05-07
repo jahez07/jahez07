@@ -13,7 +13,8 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
-![](https://hit.yhype.me/github/profile?user_id=jahez07)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahez07)](https://github.com/anuraghazra/github-readme-stats)
 
 # Technology Stacks 🧮
 
