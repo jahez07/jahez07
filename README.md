@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
+[![Image of my_github_profile_views_counter](https://github.com/formidablae/my_github_profile_views_counter/blob/master/svg/436361669/badge.svg)](https://github.com/formidablae/my_github_profile_views_counter/blob/master/readme/436361669/week.md)
 
 # Technology Stacks 🧮
 
