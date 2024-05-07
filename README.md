@@ -14,7 +14,7 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahez07)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=jahez07)
 
 # Technology Stacks 🧮
 
