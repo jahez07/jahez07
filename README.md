@@ -34,6 +34,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=jahez07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahez07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jahez07&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahez07&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+
 
 # Certifications 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?logo=Coursera&logoColor=white) ![Google](https://img.shields.io/badge/google-4285F4?logo=google&logoColor=white) Google Data Analytics Professional Certification : [Credential](https://coursera.org/share/00daf2f2b7dfbfa84683c9e3748f9eac)<br/>
