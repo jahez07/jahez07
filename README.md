@@ -3,7 +3,7 @@
 </h1>
 * 🔭 I’m actively looking for a Machine Learning Engineer Job <br>
 * 🔬 Doing research on Deep Learning Solutions for malware classification <br>
-* 🌱 I’m currently learning about Web Development : [Youtube](https://www.youtube.com/watch?v=krfUjg0S2uI&t=2s&ab_channel=freeCodeCamp.org)<br>
+* 🌱 I’m currently learning about Web Development <br>
 * 📄 Started to write technical blogs : [medium@jahezjohn](https://medium.com/@jahezjohn18950) <br>
 
 ## Socials 🌐
