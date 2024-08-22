@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jahez+John!;" />
 </h1>
 * 🔭 I’m actively looking for a Machine Learning Engineer Job <br>
-* 🔬 Doing research on Deep Learning Solutions for malware classification
-* 🌱 I’m currently learning about Web Development : [Youtube](https://www.youtube.com/watch?v=krfUjg0S2uI&t=2s&ab_channel=freeCodeCamp.org)
-* 📄 Started to write technical blogs : [medium@jahezjohn](https://medium.com/@jahezjohn18950)
+* 🔬 Doing research on Deep Learning Solutions for malware classification <br>
+* 🌱 I’m currently learning about Web Development : [Youtube](https://www.youtube.com/watch?v=krfUjg0S2uI&t=2s&ab_channel=freeCodeCamp.org)<br>
+* 📄 Started to write technical blogs : [medium@jahezjohn](https://medium.com/@jahezjohn18950) <br>
 
 ## Socials 🌐
 <div id="badges">
