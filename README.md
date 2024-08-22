@@ -2,12 +2,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jahez+John!;" />
 </h1>
-<li>
-* 🔭 I’m actively looking for a Machine Learning Engineer Job <br>
-* 🔬 Doing research on Deep Learning Solutions for malware classification <br>
-* 🌱 I’m currently learning about Web Development <br>
-* 📄 Started to write technical blogs : [medium@jahezjohn](https://medium.com/@jahezjohn18950) <br>
-</li>
+<ul>
+<li>🔭 I’m actively looking for a Machine Learning Engineer Job </li>
+<li>🔬 Doing research on Deep Learning Solutions for malware classification </li>
+<li>🌱 I’m currently learning about Web Development </li>
+<li>📄 Started to write technical blogs : [medium@jahezjohn](https://medium.com/@jahezjohn18950)</li>
+</ul>
 
 ## Socials 🌐
 <div id="badges">
