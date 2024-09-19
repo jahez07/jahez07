@@ -40,8 +40,8 @@
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jahez07&show_icons=true&theme=vision-friendly-dark">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
 <!--
 **jahez07/jahez07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
