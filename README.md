@@ -40,9 +40,10 @@
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jahez07&show_icons=true&theme=vision-friendly-dark">
-    ![Top Langs](https://github-readme-stats-mahdieths-projects.vercel.app/api/top-langs/?username=mahdi-eth&layout=compact&theme=radical&langs_count=40&size_weight=0.2&count_weight=.4&hide=html,css,scss,blade,php)
-
 </p>
+
+![Top Langs](https://github-readme-stats-mahdieths-projects.vercel.app/api/top-langs/?username=mahdi-eth&layout=compact&theme=radical&langs_count=40&size_weight=0.2&count_weight=.4&hide=html,css,scss,blade,php)
+
 <!--
 **jahez07/jahez07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
