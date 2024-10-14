@@ -40,7 +40,7 @@
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jahez07&show_icons=true&theme=vision-friendly-dark">
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahez07&layout=compact&theme=radical&langs_count=40&size_weight=0.2&count_weight=.4&hide=html,css,scss,blade,php">
+    <img width="550" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahez07&layout=compact&theme=radical&langs_count=40&size_weight=0.2&count_weight=.4&hide=html,css,scss,blade,php">
 </p>
 
 
