@@ -2,8 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jahez+John!;" />
 </h1>
 <ul>
-<li>🔭 I’m actively looking for a Machine Learning Engineer Job </li>
-<li>🔬 Doing research on Deep Learning Solutions for malware classification </li>
+<li>🔭 I’m actively looking for a AI Software Engineer Job </li>
+<li>🔬 Working as an AI Software Engineer Intern @ PM Accelerator </li>
 <li>🌱 I’m currently learning about Web Development </li>
 <li>📄 Started to write technical blogs : [medium@jahezjohn](https://medium.com/@jahezjohn18950)</li>
 </ul>
