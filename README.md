@@ -5,9 +5,12 @@
 <li>📄 Started to write technical blogs : [medium@jahezjohn](https://medium.com/@jahezjohn18950)</li>
 </ul>
 
+<!--
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=jahez07&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+
+-->
 
 ---
 
