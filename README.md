@@ -1,7 +1,6 @@
 <ul>
 <li>🔭 I’m actively learning new Software Development, AI, Cyber topics </li>
 <li>🔬 Working as an Software Engineer @ SureFlow </li>
-<li>🌱 I’m currently learning about Web Development </li>
 <li>📄 Started to write technical blogs : [medium@jahezjohn](https://medium.com/@jahezjohn18950)</li>
 </ul>
 
