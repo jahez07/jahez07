@@ -14,9 +14,8 @@
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jahez07&show_icons=true&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://streak-stats.demolab.com/?user=jajSF&theme=vision-friendly-dark">
 </p>
-
 
 
 <!--
