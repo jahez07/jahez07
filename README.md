@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://streak-stats.demolab.com/?user=jajSF&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://streak-stats.demolab.com/?user=jahez07&theme=vision-friendly-dark">
 </p>
 
 
